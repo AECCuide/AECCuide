@@ -1,6 +1,6 @@
-<div align="center"> <img src="./img/logoAECC.jpeg" alt="AECC Logo" width="300"> </div>
+<div align="center"> <img src="./img/logoRedondoLetrasAECC.png" alt="AECC Logo" width="300"> </div>
+
 ---
 
-AECC Guide 
-
+AECC Guide
 
